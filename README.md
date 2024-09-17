@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xavierdivya
+- 👋 Hi, I’m @DivyaXavier
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning computer science engineering.
 
