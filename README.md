@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-- 🎓 Final year B.E. CSE student at PSNA College of Engineering and Technology  
+- 🎓 B.E. CSE student at PSNA College of Engineering and Technology  
 - 💻 Strong foundation in Core Java, OOP, and DSA  
 - 🌱 Currently learning **Spring** and **Spring Boot**  
 - 📚 Practicing [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) daily to master Data Structures and Algorithms  
