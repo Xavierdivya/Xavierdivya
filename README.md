@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-- 🎓 B.E. CSE student at PSNA College of Engineering and Technology  
+- 🎓 Final year B.E. CSE student at PSNA College of Engineering and Technology  
 - 💻 Strong foundation in Core Java, OOP, and DSA  
 - 🌱 Currently learning **Spring** and **Spring Boot**  
 - 📚 Practicing [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) daily to master Data Structures and Algorithms  
@@ -66,6 +66,32 @@
 
 ---
 
+## 📄 Resume
+- [Click here to view my Resume](https://www.canva.com/design/DAGr__5bNMw/8mYqeYq4NS59Ahfnut03jA/view?utm_content=DAGr__5bNMw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6ed897434e)
+
+---
+
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DivyaXavier?theme=light&font=Karla" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🗂️ Striver's A-Z DSA Sheet Progress
+
+<p>
+  ✅ Problems Solved: <b>78 / 455</b><br>
+  📅 Target: Complete in 80 Days (5 per day)
+</p>
+
+<p>
+  <img src="https://progress-bar.dev/17/?title=progress&width=300&color=44cc11&suffix=%25" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 - 🔢 **Multiplayer Counter Game** — Real-time counter app with WebSocket  
@@ -74,4 +100,4 @@
 
 ---
 
-> *“Every line of code is a step toward building the future.”*
+> *“From nothing,to everything .”*
