@@ -72,7 +72,7 @@
 I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)! 💪
 
 🎯 **Goal:** 80 Days Challenge  
-📊 **Progress:** `78 / 455 problems`  
+📊 **Progress:** `97 / 455 problems`  
 🗓️ **Daily Target:** 5 problems/day
 
 ### 🧠 Topics Progress:
@@ -80,8 +80,8 @@ I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/str
 - ✅ Arrays
 - ✅ Searching & Sorting
 - 🔜 Hashing
-- ⏳ Strings
-- ⏳ Linked List
+- 🔜 Strings
+- 🔜 Linked List
 - ⏳ Trees
 - ⏳ Dynamic Programming
 
