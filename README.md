@@ -67,12 +67,14 @@
 
 ---
 
+## 📚 Learning Journey
+
 ## 🗂️ Striver's A-Z DSA Sheet
 
 I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)! 💪
 
 🎯 **Goal:** 80 Days Challenge  
-📊 **Progress:** `97 / 455 problems`  
+📊 **Progress:** `100 / 455 problems`  
 🗓️ **Daily Target:** 5 problems/day
 
 ### 🧠 Topics Progress:
@@ -84,6 +86,36 @@ I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/str
 - 🔜 Linked List
 - ⏳ Trees
 - ⏳ Dynamic Programming
+
+---
+
+### 🚀 Java Spring Framework 6, Spring Boot 3 & Spring AI – Telusko (Udemy)
+
+🎯 **Progress:** 122 / 472 lectures completed  
+📊 `████▋-------------------` 26%
+
+🧠 **Topics Covered So Far:**
+- ✅ Course Introduction
+- ✅ Core Java
+- ✅ Advanced Java
+- ✅ Maven
+- ✅ JDBC
+
+🔄 **Currently Learning:**
+- Hibernate (up next)
+- Spring Framework: Basics, Java-based config
+- Moving into Spring Boot
+
+📘 **Upcoming Topics:**
+- Spring JDBC, Spring Web MVC
+- REST APIs with Spring Boot
+- Spring Data JPA & REST
+- Spring AOP
+- Spring Security (JWT, OAuth2)
+- Docker & Cloud Deployment
+- Spring AI & LangChain
+- Microservices & Git
+- DSA Integration
 
 ---
 
