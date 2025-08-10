@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Xavier</h1>
-<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems</p>
+<p align="center">Aspiring Backend Developer | Java Enthusiast | Passionate about Clean Code & Scalable Systems | English (fluent), Hindi (basic proficiency)</p>
 
 ---
 
@@ -73,9 +73,9 @@
 
 I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)! 💪
 
-🎯 **Goal:** 80 Days Challenge  
-📊 **Progress:** `100 / 455 problems`  
-🗓️ **Daily Target:** 5 problems/day
+🎯 **Goal:** 100 Days Challenge  
+📊 **Progress:** `116 / 455 problems`  
+🗓️ **Daily Target:** 4 problems/day
 
 ### 🧠 Topics Progress:
 - ✅ Basics + Math
@@ -91,8 +91,8 @@ I'm currently solving the [Striver's A-Z DSA Sheet](https://takeuforward.org/str
 
 ### 🚀 Java Spring Framework 6, Spring Boot 3 & Spring AI – Telusko (Udemy)
 
-🎯 **Progress:** 122 / 472 lectures completed  
-📊 `████▋-------------------` 26%
+🎯 **Progress:** 133 / 472 lectures completed  
+📊 `████▋-------------------` 28%
 
 🧠 **Topics Covered So Far:**
 - ✅ Course Introduction
